@@ -27,3 +27,4 @@ Paper | Short description | Other links | Release
 ### Noteworthy 
 Blog | Short description | Other links | Release 
 -- | -- | -- | -- 
+[The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations) | The Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in LLMs | [Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Jan'24  
