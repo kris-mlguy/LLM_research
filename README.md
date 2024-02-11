@@ -11,11 +11,11 @@ Paper | Short description | Other links | Release
 [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621v4.pdf) | Alternative foundation architecture for training parallelism and low-cost inference | [Github](https://github.com/microsoft/unilm/tree/master/retnet) | Jul'23  
 ### Pre-training  
 Paper | Short description | Other links | Release    
--- | -- | --  
+-- | -- | -- | --   
 ### Fine tuning  
 Paper | Short description | Other links | Release    
--- | -- | --  
+-- | -- | -- | --  
 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685v2.pdf) | First alternative to full fine tuning freezing pretrained model weights and injecting trainable rank decomposition matrices  | [Github](https://github.com/microsoft/LoRA) | Oct'21
 ### Datasets  
-Paper | Short description | Github / Other links  
--- | -- | --  
+Paper | Short description | Other links | Release 
+-- | -- | -- | -- 
