@@ -1,10 +1,10 @@
 # LLM_research
 
 ### Pre-training
-Paper | Github / Other links  
-------|------
-[OLMo](https://arxiv.org/pdf/2402.00838v2.pdf)  
-------|------  
+Paper | Short description | Github / Other links  
+------|------|--    
+[OLMo](https://arxiv.org/pdf/2402.00838v2.pdf) | First release of a truly open language model |    
+------|------|--   
   
 ------|------  
 
