@@ -27,7 +27,7 @@ Paper | Description | Other links | Release
 ### Evaluation benchmarks   
 Paper | Description | Other links | Release 
 -- | -- | -- | -- 
-[EDITEVAL: An Instruction-Based Benchmark for Text Improvements](https://arxiv.org/pdf/2209.13331.pdf) | An instruction-based, benchmark and evaluation suite that leverages high-quality existing and new datasets for automatic evaluation of editing capabilities such as making text more cohesive and paraphrasing | [Github](https://github.com/facebookresearch/EditEval) <br> [Leaderboard](https://eval.ai/web/challenges/challenge-page/1866/overview) | Sep'22  
+[EDITEVAL: An Instruction-Based Benchmark for Text Improvements](https://arxiv.org/pdf/2209.13331.pdf) | An instruction-based, benchmark and evaluation suite that leverages high-quality existing and new datasets for automatic evaluation of editing capabilities in areas such as fluency, coherence, clarity, simplification, paraphrasing, neutralization and updating | [Github](https://github.com/facebookresearch/EditEval) <br> [Leaderboard](https://eval.ai/web/challenges/challenge-page/1866/overview) | Sep'22  
 
 ### Noteworthy 
 Blog | Description | Other links | Release 
