@@ -20,7 +20,7 @@ Paper | Description | Other links | Release
 ### Datasets  
 Paper | Description | Other links | Release 
 -- | -- | -- | --  
-[Improving Wikipedia Verifiability with AI (WAFER)] | | [Demo](https://verifier.sideeditor.com/) <br> [Github](https://github.com/facebookresearch/side) | Jul'22  
+[Improving Wikipedia Verifiability with AI](https://openreview.net/pdf?id=qfTqRtkDbWZ) | WAFER - a large scale dataset to improve citations, SIDE - an AI based wikipedia citation verifier | [Demo](https://verifier.sideeditor.com/) <br> [Github](https://github.com/facebookresearch/side) | Jul'22  
 [Understanding Iterative Revision from Human-Written Text (IteraTeR)](https://aclanthology.org/2022.acl-long.250.pdf) | The first largescale, multi-domain, edit-intention annotated corpus of iteratively revised text (GEC, coherence, clarity, style) | [Github](https://github.com/vipulraheja/IteraTeR) | May'22 
 [JFLEG: A Fluency Corpus and Benchmark for Grammatical Error Correction](https://arxiv.org/pdf/1702.04066v1.pdf) | JHU FLuency-Extended GUG corpus (JFLEG) for developing and evaluating grammatical error correction (GEC) | [Dataset](https://huggingface.co/datasets/jfleg) | Feb'17  
 
