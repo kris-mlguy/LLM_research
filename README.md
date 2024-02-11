@@ -15,6 +15,7 @@ Paper | Short description | Github / Other links
 ### Fine tuning  
 Paper | Short description | Github / Other links  
 -- | -- | --  
+[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685v2.pdf) | First alternative to full fine tuning freezing pretrained model weights and injecting trainable rank decomposition matrices  | [Github](https://github.com/microsoft/LoRA) | Oct'21
 ### Datasets  
 Paper | Short description | Github / Other links  
 -- | -- | --  
