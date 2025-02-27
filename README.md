@@ -4,7 +4,9 @@
 Paper | Description | Other links | Release      
 -- | -- | -- | --  
 [OLMo - Accelerating the science of Language Models](https://arxiv.org/pdf/2402.00838v2.pdf) | First release of a truly open language model with access to data, training code, models and evaluation code | [Model weights](https://huggingface.co/allenai/OLMo-7B) <br> [Code](https://github.com/allenai/OLMo) <br> [Data](https://huggingface.co/datasets/allenai/dolma) <br> [Evaluation](https://github.com/allenai/OLMo-Eval) <br> [Instruction tuning](https://github.com/allenai/open-instruct) | Feb'24 
+[Lost in the middle](https://cs.stanford.edu/~nfliu/papers/lost-in-the-middle.arxiv2023.pdf) | A study on how LLM performance degrades while changing the position of relevant information in the input context  | | Jul'23 
 [RewriteLM: An Instruction-tuned Large Language Model for text rewriting](https://arxiv.org/pdf/2305.15685.pdf) | New strategies for instruction tuning and reinforcement learning to better align LLMs for cross-sentence rewriting tasks | [Github](https://github.com/google-research/google-research/tree/master/rewritelm) | May'23
+ 
 
 ### Foundation  
 Paper | Description | Other links | Release      
