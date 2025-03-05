@@ -3,8 +3,9 @@
 ### Frameworks and model releases
 Paper | Description | Other links | Release      
 -- | -- | -- | --  
-[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948) | A reasoning model trained purely on RL without SFT demonstrating reduction of data and compute requirements | [Github](https://github.com/deepseek-ai/DeepSeek-R1) | Jan'25  
-[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437) | A mixture of experts model achieving efficient inference | [Github](https://github.com/deepseek-ai/DeepSeek-V3) | Dec'24
+[DeepSeek-R1](https://arxiv.org/pdf/2501.12948) | A reasoning model trained on RL without SFT, demonstrating reduction of data and compute requirements | [Github](https://github.com/deepseek-ai/DeepSeek-R1) | Jan'25  
+[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437) | A Mixture-of-Experts model achieving efficient inference | [Github](https://github.com/deepseek-ai/DeepSeek-V3) | Dec'24
+[DeepSeek-V2](https://arxiv.org/pdf/2405.04434) | A Strong, Economical, and Efficient Mixture-of-Experts Language Model using innovative architectures such as Multi-head Latent Attention (MLA) and DeepSeekMoE | | May'24
 [OLMo - Accelerating the science of Language Models](https://arxiv.org/pdf/2402.00838v2.pdf) | First release of a truly open language model with access to data, training code, models and evaluation code | [Model weights](https://huggingface.co/allenai/OLMo-7B) <br> [Code](https://github.com/allenai/OLMo) <br> [Data](https://huggingface.co/datasets/allenai/dolma) <br> [Evaluation](https://github.com/allenai/OLMo-Eval) <br> [Instruction tuning](https://github.com/allenai/open-instruct) | Feb'24 
 [RewriteLM: An Instruction-tuned Large Language Model for text rewriting](https://arxiv.org/pdf/2305.15685.pdf) | New strategies for instruction tuning and reinforcement learning to better align LLMs for cross-sentence rewriting tasks | [Github](https://github.com/google-research/google-research/tree/master/rewritelm) | May'23
  
