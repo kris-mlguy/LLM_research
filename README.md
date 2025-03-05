@@ -33,6 +33,6 @@ Paper | Description | Other links | Release
 ### Noteworthy 
 Blog | Description | Other links | Release 
 -- | -- | -- | -- 
-[Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach](https://arxiv.org/pdf/2407.16833) | | | Jul'24
+[Retrieval Augmented Generation or Long-Context LLMs?](https://arxiv.org/pdf/2407.16833) | Comparison between RAG and long-context (LC) LLMs and proposal of a hybrid approach for LC applications | | Jul'24
 [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations) | The Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in LLMs | [Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Jan'24  
 [Lost in the middle](https://cs.stanford.edu/~nfliu/papers/lost-in-the-middle.arxiv2023.pdf) | A study on how LLM performance degrades while changing the position of relevant information in the input context  | | Jul'23 
